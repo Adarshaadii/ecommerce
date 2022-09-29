@@ -135,5 +135,3 @@ REFERENCES product_catalog(product_id)
 ON DELETE CASCADE;
 
 
-# create a relationship with a vendor table, manufacturer table, color table, size, and unit tables.
-
